@@ -1,1 +1,15 @@
+# Entornos virtuales
 .venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Cobertura de tests
+.coverage
+.pytest_cache/
+
+# Variables de entorno
+.env
